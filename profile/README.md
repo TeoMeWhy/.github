@@ -12,6 +12,7 @@ Fazemos lives na Twitch todas terças e quintas feiras às 9:00AM (horário de B
 - [X] [Imersão de SQL](https://www.twitch.tv/collections/1GD1BC-Y3BbhgA)
 - [X] [Imersão de Machine Learning - Assinaturas na GC](https://www.twitch.tv/collections/xDcbIHun4xYMFA)
 - [X] [Construção de Data Lake](https://www.twitch.tv/collections/RfkhG2pJ7xY2TA)
+- [ ] [Machine Learning - Churn de Assinatura da Gamers Club](https://github.com/TeoMeWhy/churn-sub)
 - [ ] Mlflow no Databricks
 
 ## Sobre o criador
