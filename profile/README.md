@@ -14,6 +14,7 @@ Fazemos lives na Twitch todas terças e quintas feiras às 9:00AM (horário de B
 - [X] [Construção de Data Lake](https://www.twitch.tv/collections/RfkhG2pJ7xY2TA)
 - [X] [Machine Learning - Churn de Assinatura da Gamers Club](https://github.com/TeoMeWhy/churn-sub)
 - [X] [Game Lake House](https://github.com/TeoMeWhy/game-lake-house)
+- [X] [Análise TSE - Candidatos 2022](https://github.com/TeoMeWhy/tse-analytics)
 - [ ] Mlflow no Databricks
 
 ## Sobre o criador
