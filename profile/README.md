@@ -7,7 +7,7 @@ Fique a vontade para descobrir e contribuir junto conosco.
 
 Acreditamos no trabalho de formiguinha, dia a dia alcançando mais e mais vidas por meio do ensino. Aqui você vai encontrar material sobre Data Science, Estatística, Programação e vários temas ao redor da área de dados e tecnologia.
 
-Fazemos lives na Twitch todas terças e quintas feiras às 20:00AM (horário de Brasília). É um momento descontraído para galera aprender e perguntar bastante! Já fizemos muitoa coisa legal e ainda há muito conteúdo pela frente, confira:
+Fazemos lives na Twitch todas terças e quintas feiras às 9:00 Hrs (horário de Brasília). É um momento descontraído para galera aprender e perguntar bastante! Já fizemos muitoa coisa legal e ainda há muito conteúdo pela frente, confira:
 
 - [X] [Imersão de SQL](https://www.twitch.tv/collections/1GD1BC-Y3BbhgA)
 - [X] [Imersão de Machine Learning - Assinaturas na GC](https://www.twitch.tv/collections/xDcbIHun4xYMFA)
@@ -15,7 +15,7 @@ Fazemos lives na Twitch todas terças e quintas feiras às 20:00AM (horário de 
 - [X] [Machine Learning - Churn de Assinatura da Gamers Club](https://github.com/TeoMeWhy/churn-sub)
 - [X] [Game Lake House](https://github.com/TeoMeWhy/game-lake-house)
 - [X] [Análise TSE - Candidatos 2022](https://github.com/TeoMeWhy/tse-analytics)
-- [ ] Mlflow no Databricks
+- [ ] [Olist Machine Learning](https://github.com/TeoMeWhy/olist-ml-models)
 
 ## Sobre o criador
 
