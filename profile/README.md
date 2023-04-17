@@ -15,7 +15,7 @@ Fazemos lives na Twitch todas terças e quintas feiras às 9:00 Hrs (horário de
 - [X] [Machine Learning - Churn de Assinatura da Gamers Club](https://github.com/TeoMeWhy/churn-sub)
 - [X] [Game Lake House](https://github.com/TeoMeWhy/game-lake-house)
 - [X] [Análise TSE - Candidatos 2022](https://github.com/TeoMeWhy/tse-analytics)
-- [ ] [Olist Machine Learning](https://github.com/TeoMeWhy/olist-ml-models)
+- [X] [Olist Machine Learning](https://github.com/TeoMeWhy/olist-ml-models)
 
 ## Sobre o criador
 
