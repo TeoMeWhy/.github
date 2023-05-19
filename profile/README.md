@@ -21,8 +21,9 @@ Fazemos lives na Twitch todas terças e quintas feiras às 9:00 Hrs (horário de
 
 Oi, eu sou o Téo! 😄
 
-Bacharel em Estatística pela FCT-UNESP, pós graduado em Data Science & Big Data pela UFPR. Atualmente sou Head de Dados na Gamers Club, tendo passado por diversas empresas como: Via Varejo, Grupo Boticário, SAS Institute e Tapps Games. Faço parte do corpo docente da escola ASN.Rocks, ministrando aulas de Introdução ao Python, Algoritmos Classificadores e Regressores.
-E ah, tenho um canal na Twitch (Téo Me Why), onde faço lives sobre Ciência de Dados.
+Bacharel em Estatística pela FCT-UNESP, pós graduado em Data Science & Big Data pela UFPR. Atualmente estou focado 100% neste projeto mas já atuei em diversas empresas como: Sr, Head de Dados na Gamers Club, Data Science Specialist na Via Varejo, Data Scientist Grupo Boticário, Data Scientist Consultant no SAS Institute e Tapps Games.
+
+Do lado do ensino, sou membro e instrutor de tecnologia no Instituto Aaron Swartz e faço parte do corpo docente da escola ASN.Rocks, ministrando aulas de Introdução ao Python, Algoritmos Classificadores e Regressores. E ah, tenho um canal na Twitch (Téo Me Why), onde faço lives sobre Ciência de Dados.
 
 Sou bastante acessível e amo compartilhar conhecimento, fique a vontade para se conectar nas redes sociais:
 
