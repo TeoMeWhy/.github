@@ -22,9 +22,9 @@ Fazemos lives na Twitch de segunda a sexta às 9:00 Hrs (horário de Brasília).
 
 Oi, eu sou o Téo! 😄
 
-Bacharel em Estatística pela FCT-UNESP, pós graduado em Data Science & Big Data pela UFPR. Atualmente estou focado 100% neste projeto mas já atuei em diversas empresas como: Sr, Head de Dados na Gamers Club, Data Science Specialist na Via Varejo, Data Scientist Grupo Boticário, Data Scientist Consultant no SAS Institute e Tapps Games.
+Sou formado em Estatística na UNESP e especialista em Data Science & Big Data pela UFPR. Atuo na área de dados desde 2014, passando por diferentes empresas, sempre com viés analítico e preditivo, onde minha última posição foi como Sr. Head de Dados na Gamers Club, liderando os times de Data Engineering e Advanced Analytics. Anteriormente, fui Especialista e Coordenador de Dados na Via Varejo e Data Scientist no Grupo Boticário. Conheça mais detalhes no meu [LinkedIn](https://www.linkedin.com/in/teocalvo/).
 
-Do lado do ensino, sou membro e instrutor de tecnologia no Instituto Aaron Swartz e faço parte do corpo docente da escola ASN.Rocks, ministrando aulas de Introdução ao Python, Algoritmos Classificadores e Regressores. E ah, tenho um canal na Twitch (Téo Me Why), onde faço lives sobre Ciência de Dados.
+Atualmente me dedico 100% em iniciativas de ensino, divulgando conhecimento de forma acessível e didática com seu projeto [Téo Me Why](twitch.tv/teomewhy). Além disso, sou instrutor de tecnologia no [Instituto Aaron Swartz](https://institutoasw.org/), tem treinamentos disponíveis na [LinuxTips](https://www.linuxtips.io/descomplicando-sql) e ministra aulas na escola [ASN.Rocks](https://asn.rocks/).
 
 Sou bastante acessível e amo compartilhar conhecimento, fique a vontade para se conectar nas redes sociais:
 
