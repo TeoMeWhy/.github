@@ -16,6 +16,7 @@ Fazemos lives na Twitch todas terças e quintas feiras às 9:00 Hrs (horário de
 - [X] [Game Lake House](https://github.com/TeoMeWhy/game-lake-house)
 - [X] [Análise TSE - Candidatos 2022](https://github.com/TeoMeWhy/tse-analytics)
 - [X] [Olist Machine Learning](https://github.com/TeoMeWhy/olist-ml-models)
+- [ ] [Databricks Feature Store](https://www.twitch.tv/collections/D8xJ12cDZBe_lQ)
 
 ## Sobre o criador
 
