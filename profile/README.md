@@ -34,6 +34,9 @@ Sou bastante acessível e amo compartilhar conhecimento, fique a vontade para se
   <a href="https://www.linkedin.com/in/teocalvo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## Sobre ganhos e custos
+## Apoie este projeto
+
+Caso tenha curtindo nossa iniciativa, não deixe de nos apoiar, sua contribuição faz muita diferença.
+Conheça nosso [apoia.se](http://apoia.se/teomewhy) e metas estipuladas.
 
 Temos uma planilha para que todo mundo possa acompanhar ganhos e custos mensais que tenho com o canal. Basta [acessar esta planilha](https://docs.google.com/spreadsheets/d/1V5e4aIJTLh1k7kFn_wj5Bn_7_9hDCml1eNcXdK6NhU8/edit?usp=sharing).
