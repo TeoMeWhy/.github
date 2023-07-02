@@ -37,7 +37,7 @@ Sou bastante acessível e amo compartilhar conhecimento, fique a vontade para se
 ## Apoie este projeto
 
 Curtiu nosso projeto? Junte-se à tantas outras pessoas que estão nos apoiando, e conheça nosso [apoia.se](http://apoia.se/teomewhy)!
-| Apoiadores |
+| Apoiadores +Avançados|
 |---|
 |Anderson luis Domiciano Santana |
 |Andrey Nascimento|
