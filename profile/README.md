@@ -36,7 +36,28 @@ Sou bastante acessível e amo compartilhar conhecimento, fique a vontade para se
 
 ## Apoie este projeto
 
-Caso tenha curtindo nossa iniciativa, não deixe de nos apoiar, sua contribuição faz muita diferença.
-Conheça nosso [apoia.se](http://apoia.se/teomewhy) e metas estipuladas.
+Curtiu nosso projeto? Junte-se à tantas outras pessoas que estão nos apoiando, e conheça nosso [apoia.se](http://apoia.se/teomewhy)!
+
+Anderson luis Domiciano Santana 
+Andrey Nascimento
+Bruno Oliveira
+Bruno Servilha
+Douglas Rosseto
+Flavio Valiati
+Henrique Hoffmann
+Jonathan Pereira
+João Pedro Lima
+Marco Garcia
+Mariana Lemos Talaisys
+Mariana Moledo Moreira
+Marx Vinicius de Sousa Cerqueira
+Paulo Roberto de Oliveira Musachio
+Ramon Fernandes Viana
+Raphael Abenom
+Raphael Nunes 
+Rogério Crespo Martins Júnior
+
+![image](https://github.com/TeoMeWhy/.github/assets/4283625/ca02437a-756f-4853-b91c-9e6ef77e0470)
+
 
 Temos uma planilha para que todo mundo possa acompanhar ganhos e custos mensais que tenho com o canal. Basta [acessar esta planilha](https://docs.google.com/spreadsheets/d/1V5e4aIJTLh1k7kFn_wj5Bn_7_9hDCml1eNcXdK6NhU8/edit?usp=sharing).
