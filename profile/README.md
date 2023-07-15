@@ -9,22 +9,22 @@ Acreditamos no trabalho de formiguinha, dia a dia alcançando mais e mais vidas 
 
 Fazemos lives na Twitch de segunda a sexta às 9:00 Hrs (horário de Brasília). É um momento descontraído para galera aprender e perguntar bastante! Já fizemos muitoa coisa legal e ainda há muito conteúdo pela frente, confira:
 
-|Coleção | Descrição | Nível | Modo | Status |
-|---|---|---|---|---|
-|[Data SUS](https://www.twitch.tv/collections/E82inP8ZcRfmWg) |Consumo e tratamento de dados para construção de Datalake com dados do Sistema de Informações Hospitalares (SIH) do SUS | Intermediário | Projeto | Em andamento |
-|[Introdução à Programação com Python](https://www.twitch.tv/collections/KsRwA0OEbhd_Gw) | Curso introdutório para iniciantes em programação utilizando Python | Inciante | Curso | Finalizado |
-|[Estudos Backend com GoLang](https://www.twitch.tv/collections/AyJXQs-3bhfPGQ) | Estou aprendendo GoLang em live e você pode conferir como faço para estudar e minha trilha de estudos | Iniciante | Estudos | Em andamento |
-|[IGDB](https://www.twitch.tv/collections/D8xJ12cDZBe_lQ) | Consumo de dados da AOI IGDB, catálogo de todos os jogos já lançados no mundo e seus respectivas informações: empresas, thema, modo, notas... | Avançado | Projeto | Finalizado |
-|[Machine Learning do início ao fim](https://www.twitch.tv/collections/sG1UU3C2UheIPg) | Curso apresentando um ciclo de Machine Learning do começo ao fim em um projeto prático em formato de curso | Intermediário | Curso | Em andamento |
-|[Game Lake House](https://www.twitch.tv/collections/MpD-VQopEBfOog) | Criação de um datalake no Databricks para análise de jogod de Dota2 | Avançado | Projeto | Finalizado |
-|[Churn Asinaturas GC](https://www.twitch.tv/collections/-iVyOjw2ARc93A) | Curso de Machine Learning utilizando dados de Assinaturas da Gamers Club  | Iniciante | Curso | Finalizado |
-|[gc-bricks](https://www.twitch.tv/collections/RfkhG2pJ7xY2TA) | Ingestão de dados da Gamers Club no Databricks | Iniciante | Projeto | Finalizado |
-|[Data Science - Projeto Assinaturas](https://www.twitch.tv/collections/xDcbIHun4xYMFA) | Curso de Machine Learning com predição de novas assinaturas utilizando dados da Gamers Club | Iniciante | Curso | Finalizado |
-|[SQL - Dados GC](https://www.twitch.tv/collections/1GD1BC-Y3BbhgA) | Curso de SQL com dados da Gamers Club| Iniciante | Curso | Finalizado |
-|[Dotabricks](https://www.twitch.tv/collections/t625I7F_0RZKMg) | Criação de um Datalake no Databricks para armazenar e organizar dados de Dota2| Avançado | Projeto | Finalizado |
-|[Machine Learning](https://www.twitch.tv/collections/vrRnPxxEgxYPpg) | Curso de introdução à Machine Learning| Iniciante | Curso | Finalizado |
-|[Dota Science](https://www.twitch.tv/collections/eiQxhCffdBapKQ) | Tentativa de predição de desfecho de partidas de Dota2 | Avançado | Projeto | Finalizado |
-|[Trilha SQL](https://www.twitch.tv/collections/IkuI3yO-ShZO-g) | Primeiro curso de SQL do canal, utilizando dados da Olist | Iniciante | Curso | Finalizado |
+|Coleção | Descrição | Nível | Formato | Status | Acesso |
+|---|---|---|---|---|---|
+|[Data SUS](https://www.twitch.tv/collections/E82inP8ZcRfmWg) |Consumo e tratamento de dados para construção de Datalake com dados do Sistema de Informações Hospitalares (SIH) do SUS | Intermediário | Projeto | Em andamento | Assinante |
+|[Introdução à Programação com Python](https://www.twitch.tv/collections/KsRwA0OEbhd_Gw) | Curso introdutório para iniciantes em programação utilizando Python | Inciante | Curso | Finalizado | Aberto |
+|[Estudos Backend com GoLang](https://www.twitch.tv/collections/AyJXQs-3bhfPGQ) | Estou aprendendo GoLang em live e você pode conferir como faço para estudar e minha trilha de estudos | Iniciante | Estudos | Em andamento | Assinante |
+|[IGDB](https://www.twitch.tv/collections/D8xJ12cDZBe_lQ) | Consumo de dados da AOI IGDB, catálogo de todos os jogos já lançados no mundo e seus respectivas informações: empresas, thema, modo, notas... | Avançado | Projeto | Finalizado | Assinante |
+|[Machine Learning do início ao fim](https://www.twitch.tv/collections/sG1UU3C2UheIPg) | Curso apresentando um ciclo de Machine Learning do começo ao fim em um projeto prático em formato de curso | Intermediário | Curso | Em andamento | Aberto |
+|[Game Lake House](https://www.twitch.tv/collections/MpD-VQopEBfOog) | Criação de um datalake no Databricks para análise de jogod de Dota2 | Avançado | Projeto | Finalizado | Assinante |
+|[Churn Asinaturas GC](https://www.twitch.tv/collections/-iVyOjw2ARc93A) | Curso de Machine Learning utilizando dados de Assinaturas da Gamers Club  | Iniciante | Curso | Finalizado | Assinante |
+|[gc-bricks](https://www.twitch.tv/collections/RfkhG2pJ7xY2TA) | Ingestão de dados da Gamers Club no Databricks | Iniciante | Projeto | Finalizado | Assinante |
+|[Data Science - Projeto Assinaturas](https://www.twitch.tv/collections/xDcbIHun4xYMFA) | Curso de Machine Learning com predição de novas assinaturas utilizando dados da Gamers Club | Iniciante | Curso | Finalizado | Assinante |
+|[SQL - Dados GC](https://www.twitch.tv/collections/1GD1BC-Y3BbhgA) | Curso de SQL com dados da Gamers Club| Iniciante | Curso | Finalizado | Assinante |
+|[Dotabricks](https://www.twitch.tv/collections/t625I7F_0RZKMg) | Criação de um Datalake no Databricks para armazenar e organizar dados de Dota2| Avançado | Projeto | Finalizado | Assinante |
+|[Machine Learning](https://www.twitch.tv/collections/vrRnPxxEgxYPpg) | Curso de introdução à Machine Learning| Iniciante | Curso | Finalizado | Assinante |
+|[Dota Science](https://www.twitch.tv/collections/eiQxhCffdBapKQ) | Tentativa de predição de desfecho de partidas de Dota2 | Avançado | Projeto | Finalizado | Assinante |
+|[Trilha SQL](https://www.twitch.tv/collections/IkuI3yO-ShZO-g) | Primeiro curso de SQL do canal, utilizando dados da Olist | Iniciante | Curso | Finalizado | Assinante |
 
 
 
