@@ -3,6 +3,10 @@
 Que alegria em ter você por aqui! Este é o perfil no GitHub do canal [Téo Me Why](https://www.twitch.tv/teomewhy) e todos os projetos desenvolvidos em nossas lives estão por aqui!
 Fique a vontade para descobrir e contribuir junto conosco.
 
+- [Sobre o projeto](#sobre-o-projeto)
+- [Sobre o criador](#sobre-o-criador)
+- [Nos apoie](#nos-apoie)
+
 ## Sobre o projeto
 
 Acreditamos no trabalho de formiguinha, dia a dia alcançando mais e mais vidas por meio do ensino. Aqui você vai encontrar material sobre Data Science, Estatística, Programação e vários temas ao redor da área de dados e tecnologia.
@@ -15,7 +19,7 @@ Fazemos lives na Twitch de segunda a sexta às 9:00 Hrs (horário de Brasília).
 |[Introdução à Programação com Python](https://www.twitch.tv/collections/KsRwA0OEbhd_Gw) | Curso introdutório para iniciantes em programação utilizando Python | Inciante | Curso | Finalizado | Aberto |
 |[Estudos Backend com GoLang](https://www.twitch.tv/collections/AyJXQs-3bhfPGQ) | Estou aprendendo GoLang em live e você pode conferir como faço para estudar e minha trilha de estudos | Iniciante | Estudos | Em andamento | Assinante |
 |[IGDB](https://www.twitch.tv/collections/D8xJ12cDZBe_lQ) | Consumo de dados da API IGDB, catálogo de todos os jogos já lançados no mundo e seus respectivas informações: empresas, thema, modo, notas... | Avançado | Projeto | Finalizado | Assinante |
-|[Machine Learning do início ao fim](https://www.twitch.tv/collections/sG1UU3C2UheIPg) | Curso apresentando um ciclo de Machine Learning do começo ao fim em um projeto prático em formato de curso | Intermediário | Curso | Em andamento | Aberto |
+|[Machine Learning do início ao fim](https://www.twitch.tv/collections/sG1UU3C2UheIPg) | Curso apresentando um ciclo de Machine Learning do começo ao fim em um projeto prático em formato de curso | Intermediário | Curso | Finalizado | Aberto |
 |[Game Lake House](https://www.twitch.tv/collections/MpD-VQopEBfOog) | Criação de um datalake no Databricks para análise de jogo de Dota2 | Avançado | Projeto | Finalizado | Assinante |
 |[Churn Asinaturas GC](https://www.twitch.tv/collections/-iVyOjw2ARc93A) | Curso de Machine Learning utilizando dados de Assinaturas da Gamers Club  | Iniciante | Curso | Finalizado | Assinante |
 |[gc-bricks](https://www.twitch.tv/collections/RfkhG2pJ7xY2TA) | Ingestão de dados da Gamers Club no Databricks | Iniciante | Projeto | Finalizado | Assinante |
@@ -26,7 +30,7 @@ Fazemos lives na Twitch de segunda a sexta às 9:00 Hrs (horário de Brasília).
 |[Dota Science](https://www.twitch.tv/collections/eiQxhCffdBapKQ) | Tentativa de predição de desfecho de partidas de Dota2 | Avançado | Projeto | Finalizado | Assinante |
 |[Trilha SQL](https://www.twitch.tv/collections/IkuI3yO-ShZO-g) | Primeiro curso de SQL do canal, utilizando dados da Olist | Iniciante | Curso | Finalizado | Assinante |
 
-
+Fique por dentro de toda nossa agenda aqui: [twitch.tv/teomewhy/schedule](https://www.twitch.tv/teomewhy/schedule)
 
 ## Sobre o criador
 
@@ -44,10 +48,16 @@ Sou bastante acessível e amo compartilhar conhecimento, fique a vontade para se
   <a href="https://www.linkedin.com/in/teocalvo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## Apoie este projeto
+## Nos apoie
 
-Curtiu nosso projeto? Junte-se à tantas outras pessoas que estão nos apoiando, e conheça nosso [apoia.se](http://apoia.se/teomewhy)!
-| Apoiadores +Avançados|
+Curtiu nosso projeto? Junte-se à tantas outras pessoas que estão nos apoiando, e conheça nosso meios de apoio:
+
+- [apoia.se/teomewhy](https://apoia.se/teomewhy)
+- [livepix.gg/teomewhy](https://livepix.gg/teomewhy)
+- [github.com/sponsors/TeoMeWhy](https://github.com/sponsors/TeoMeWhy)
+- Chave Pix: 559a336c-cf12-4ecd-8917-a0d1df2c37a2
+
+| Apoiadores +Avançados do Apoia.se|
 |---|
 |Anderson luis Domiciano Santana |
 |Andrey Nascimento|
@@ -68,4 +78,4 @@ Curtiu nosso projeto? Junte-se à tantas outras pessoas que estão nos apoiando,
 |Raphael Nunes |
 |Rogério Crespo Martins Júnior|
 
-Temos uma planilha para que todo mundo possa acompanhar ganhos e custos mensais que tenho com o canal. Basta [acessar esta planilha](https://docs.google.com/spreadsheets/d/1V5e4aIJTLh1k7kFn_wj5Bn_7_9hDCml1eNcXdK6NhU8/edit?usp=sharing).
+Temos uma planilha para que todo mundo possa acompanhar ganhos e custos mensais que tenho com o projeto. Basta [acessar esta planilha](https://docs.google.com/spreadsheets/d/1V5e4aIJTLh1k7kFn_wj5Bn_7_9hDCml1eNcXdK6NhU8/edit?usp=sharing).
