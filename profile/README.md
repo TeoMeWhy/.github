@@ -15,9 +15,9 @@ Fazemos lives na Twitch de segunda a sexta às 9:00 Hrs (horário de Brasília).
 
 |Coleção | Descrição | Nível | Formato | Status | Acesso |
 |---|---|---|---|---|---|
-|[Desbravando Pandas](https://www.twitch.tv/collections/Y1BKVydmeRe1YQ)| Treinamento de Pandas para análise e manipulação de dados| Iniciante | Curso | Finalizado | Aberto |
 |[The International](https://www.twitch.tv/collections/3DNdc7JXdxccWg)| Consumo de dados de Dota2 para predições de partida|Intermediário| Projeto | Em andamento | Assinantes Twitch |
-|[Data SUS](https://www.twitch.tv/collections/E82inP8ZcRfmWg) |Consumo e tratamento de dados para construção de Datalake com dados do Sistema de Informações Hospitalares (SIH) do SUS | Intermediário | Projeto | Finalizado | Assinante na Twitch |
+|[Data SUS](https://www.twitch.tv/collections/E82inP8ZcRfmWg) |Consumo e tratamento de dados para construção de Datalake com dados do Sistema de Informações Hospitalares (SIH) do SUS | Intermediário | Projeto | Em andamento | Assinante na Twitch |
+|[Desbravando Pandas](https://www.twitch.tv/collections/Y1BKVydmeRe1YQ)| Treinamento de Pandas para análise e manipulação de dados| Iniciante | Curso | Finalizado | Aberto |
 |[Introdução à Programação com Python](https://www.twitch.tv/collections/KsRwA0OEbhd_Gw) | Curso introdutório para iniciantes em programação utilizando Python | Inciante | Curso | Finalizado | Aberto |
 |[Estudos Backend com GoLang](https://www.twitch.tv/collections/AyJXQs-3bhfPGQ) | Estou aprendendo GoLang em live e você pode conferir como faço para estudar e minha trilha de estudos | Iniciante | Estudos | Em andamento | Assinante na Twitch |
 |[IGDB](https://www.twitch.tv/collections/D8xJ12cDZBe_lQ) | Consumo de dados da API IGDB, catálogo de todos os jogos já lançados no mundo e seus respectivas informações: empresas, thema, modo, notas... | Avançado | Projeto | Finalizado | Assinante na Twitch |
