@@ -60,25 +60,4 @@ Curtiu nosso projeto? Junte-se à tantas outras pessoas que estão nos apoiando,
 - [github.com/sponsors/TeoMeWhy](https://github.com/sponsors/TeoMeWhy)
 - Chave Pix: 559a336c-cf12-4ecd-8917-a0d1df2c37a2
 
-| Apoiadores +Avançados do Apoia.se|
-|---|
-|Anderson luis Domiciano Santana |
-|Andrey Nascimento|
-|Bruno Oliveira|
-|Bruno Servilha|
-|Douglas Rosseto|
-|Flavio Valiati|
-|Henrique Hoffmann|
-|Jonathan Pereira|
-|João Pedro Lima|
-|Marco Garcia|
-|Mariana Lemos Talaisys|
-|Mariana Moledo Moreira|
-|Marx Vinicius de Sousa Cerqueira|
-|Paulo Roberto de Oliveira Musachio|
-|Ramon Fernandes Viana|
-|Raphael Abenom|
-|Raphael Nunes |
-|Rogério Crespo Martins Júnior|
-
 Temos uma planilha para que todo mundo possa acompanhar ganhos e custos mensais que tenho com o projeto. Basta [acessar esta planilha](https://docs.google.com/spreadsheets/d/1V5e4aIJTLh1k7kFn_wj5Bn_7_9hDCml1eNcXdK6NhU8/edit?usp=sharing).
