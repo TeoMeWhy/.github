@@ -37,13 +37,11 @@ Fique por dentro de toda nossa agenda aqui: [twitch.tv/teomewhy/schedule](https:
 
 ## Sobre o criador
 
-Oi, eu sou o Téo! 😄
+Téo Calvo, um entusiasta incansável do universo de dados, traz consigo uma rica jornada nas esferas de Data Science e Analytics. Como líder, destacou-se na condução estratégica de equipes, liderando pessoas e projetos de Advanced Analytics. Sua visão inovadora não apenas moldou a cultura organizacional, mas também impulsionou a implementação de um robusto Data Lake e a integração eficiente entre áreas cruciais da empresa.
 
-Sou formado em Estatística na UNESP e especialista em Data Science & Big Data pela UFPR. Atuo na área de dados desde 2014, passando por diferentes empresas, sempre com viés analítico e preditivo, onde minha última posição foi como Sr. Head de Dados na Gamers Club, liderando os times de Data Engineering e Advanced Analytics. Anteriormente, fui Especialista e Coordenador de Dados na Via Varejo e Data Scientist no Grupo Boticário. Conheça mais detalhes no meu [LinkedIn](https://www.linkedin.com/in/teocalvo/).
+Para além de suas realizações profissionais, Teo nutre uma paixão dedicada à democratização do conhecimento na área de dados e tecnologia. Por meio de sua iniciativa educacional, [Téo Me Why](https://www.twitch.tv/teomewhy), ele compartilha insights valiosos, promove treinamentos envolventes e disponibiliza material autoral, alcançando uma audiência global. Sua abordagem acessível e inspiradora tem impactado milhares de entusiastas, tornando o aprendizado sobre dados mais inclusivo e estimulante.
 
-Atualmente me dedico 100% em iniciativas de ensino, divulgando conhecimento de forma acessível e didática com seu projeto [Téo Me Why](twitch.tv/teomewhy). Além disso, sou instrutor de tecnologia no [Instituto Aaron Swartz](https://institutoasw.org/), tem treinamentos disponíveis na [LinuxTips](https://www.linuxtips.io/descomplicando-sql) e ministra aulas na escola [ASN.Rocks](https://asn.rocks/).
-
-Sou bastante acessível e amo compartilhar conhecimento, fique a vontade para se conectar nas redes sociais:
+É bastante acessível, fique a vontade para se conectar nas redes sociais:
 
 <div> 
   <a href="https://www.youtube.com/channel/UC-Xa9J9-B4jBOoBNIHkMMKA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
