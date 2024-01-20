@@ -15,6 +15,7 @@ Fazemos lives na Twitch de segunda a sexta às 9:00 Hrs (horário de Brasília).
 
 |Coleção | Descrição | Nível | Formato | Status | Acesso |
 |---|---|---|---|---|---|
+|[Dados TSE](https://www.twitch.tv/collections/wO90seh_qxeyTA)| Coleta de dados públicos das eleições brasileiras|Intermediário| Projeto | Em andamento | Assinantes Twitch |
 |[Estatística para Você](https://www.twitch.tv/collections/GnvvyiEhhBdCuA)| Curso de Estatística básica|Iniciante| Curso | Finalizado | Aberto |
 |[The International](https://www.twitch.tv/collections/3DNdc7JXdxccWg)| Consumo de dados de Dota2 para predições de partida|Intermediário| Projeto | Finalizado | Assinantes Twitch |
 |[Data SUS](https://www.twitch.tv/collections/E82inP8ZcRfmWg) |Consumo e tratamento de dados para construção de Datalake com dados do Sistema de Informações Hospitalares (SIH) do SUS | Intermediário | Projeto | Em andamento | Assinante na Twitch |
